@@ -1,0 +1,7 @@
+1) install Xammp
+2) Import Database to phpmyadmin
+3)Insert below links in postman according to operation you want (CRUD)
+3) use localhost/product API/read.php to GET
+4) use create.php to create
+5) use delete.php to delete
+6) use update.php to update
